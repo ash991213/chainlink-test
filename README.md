@@ -68,7 +68,7 @@ cd ~/.chainlink-bnb && docker run --platform linux/x86_64/v8 --name chainlink -v
 
 - You can access the Chainlink node by visiting localhost:6688 in your web browser. Use your email and password to log in and explore the features and functionalities of the node.
 
-### Sample Image
+### Example Image
 <img width="1876" alt="Operator Node UI" src="https://github.com/ash991213/chainlink-test/assets/99451647/349893cc-e61d-4d24-bbb2-bade9284438b">
 
 ### API Consumer Test
