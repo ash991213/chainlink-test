@@ -84,7 +84,7 @@ https://docs.chain.link/resources/link-token-contracts
 
 - Use the setAuthorizedSenders function to set the authorized senders for your operator node. Pass the addresses of your operator nodes as the senders parameter.
 
-### Sample Image
+### Example Image
 <img width="488" alt="setAuthorizedSenders" src="https://github.com/ash991213/chainlink-test/assets/99451647/c63f9614-54cd-49b4-8f8c-a5fc96592c24">
 
 - Create a new job by using the following code
