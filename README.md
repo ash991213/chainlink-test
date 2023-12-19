@@ -138,7 +138,7 @@ observationSource = """
 
 - Use the addOperator function of the TestToken contract to add the ChainlinkAPIConsumer contract as an operator. Pass the ChainlinkAPIConsumer contract address as the operator parameter.
 
-### Sample Image
+### Example Image
 <img width="485" alt="addOperator" src="https://github.com/ash991213/chainlink-test/assets/99451647/bb51cd04-5721-41a2-ac89-04e4d51f8cbd">
 
 - Send LINK tokens to the ChainlinkAPIConsumer contract and send BNB tokens to the operator node address.
@@ -179,7 +179,7 @@ observationSource = """
 
 > This process allows the contract to interact with the Chainlink network, fetch external data, and perform actions based on the received data.
 
-### Sample Image
+### Example Image
 <img width="1266" alt="스크린샷 2023-07-12 오후 2 25 18" src="https://github.com/ash991213/chainlink-test/assets/99451647/7bf8af8a-8c8d-4dce-8417-acdabf035e3a">
 
 <img width="1358" alt="스크린샷 2023-07-12 오후 2 26 46" src="https://github.com/ash991213/chainlink-test/assets/99451647/f88a4ab4-a02c-4cf1-84af-18c61e3f1e7d">
